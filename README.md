@@ -1,3 +1,4 @@
+![Silambarasan R's Gravatar](https://www.gravatar.com/avatar/2fddef559f866a69989654ca045682b6?s=200)
 # Hi there, I'm Silambarasan R! 👋
 
 I'm a passionate and results-driven Senior Software Engineer with a strong background in building scalable, high-performance web and mobile applications. With over 7 years of experience in the software industry, I specialize in full-stack development, leading technical teams, and optimizing complex systems.
@@ -47,10 +48,14 @@ I'm always keen to learn and grow! Currently, I'm pursuing a Master of Computer 
 
 Feel free to connect with me!
 
-* **LinkedIn:** [Silambarasan R](https://www.google.com/search?q=https://www.linkedin.com/in/silambarasan-r-11a56111a/)
+* **LinkedIn:** [Silambarasan R](https://www.linkedin.com/in/silambarasan-rd/)
 
-* **Email:** silambu1821944@gmail.com
+* **Email:** [silambu1821944@gmail.com](mailto:silambu1821944@gmail.com)
 
 * **StackOverflow:** [Silambarasan R (1k+ Reputation)](https://stackoverflow.com/users/8192354/silambarasan-r)
+
+* **Gravatar:**: [gravatar.com/si1ambarasan](https://gravatar.com/si1ambarasan)
+
+* **Portfolio**: [Silambarasan R](https://silambarasan.netlify.app/)
 
 ⭐️ From [Silambarasan R](https://github.com/silambarasan-rd)
